@@ -1,0 +1,10 @@
+__pycache__/
+.tmp/
+*.py[cod]
+.venv/
+token.txt
+reminders.db
+reminders.db-wal
+reminders.db-shm
+bot.log
+tests/_tmp_db/
